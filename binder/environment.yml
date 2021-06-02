@@ -1,0 +1,10 @@
+name: cdth_rebels
+channels:
+  - conda
+dependencies:
+  - python=3.9
+  - ipywidgets
+  - markdown
+  - pandas
+  - spacy
+  - seaborn
