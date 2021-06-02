@@ -2,9 +2,7 @@ name: cdth_rebels
 channels:
   - conda
 dependencies:
-  - python=3.9
-  - ipywidgets
   - markdown
-  - pandas
-  - spacy
+  - pandas=1.2.4
+  - spacy=2.3.5
   - seaborn
